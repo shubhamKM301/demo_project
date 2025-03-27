@@ -4,4 +4,5 @@ def tm():
     task.append("login page")
     a = input("enter your text")
     if a == "view tas":
-        print(task)   
+        print(task) 
+        print()
